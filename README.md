@@ -1,2 +1,2 @@
-# This is my first Git repository created on 6th Dec 2025.
+# This Repo created to practice Python.
 Jai Anjaney
